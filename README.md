@@ -21,4 +21,4 @@ Explicit List 를 이용해 my malloc 구현.(91 / 100)
 
 
 
-프로젝트 별 자세한 내용은 각 디렉토리의 document.pdf 파일에 자세히 나와있습니다.
+프로젝트 별 자세한 내용은 각 디렉토리의 document.docx 에 자세히 나와있습니다.
